@@ -1,0 +1,1 @@
+Assignments from the second AI with python class
